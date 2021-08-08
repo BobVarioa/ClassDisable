@@ -1,0 +1,5 @@
+displayName = Class Disable
+author = MasterOfBob
+version = 1.0.0.1
+homepage = 
+buildIgnore = .gitattributes, .gitignore, .git/, .vs/, bin/, obj/, .csproj, .cs, .sln
